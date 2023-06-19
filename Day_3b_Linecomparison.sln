@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_3b_Linecomparison", "Day_3b_Linecomparison\Day_3b_Linecomparison.csproj", "{2EB06DD4-30B0-4AA8-8030-FB0944F37CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB06DD4-30B0-4AA8-8030-FB0944F37CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB06DD4-30B0-4AA8-8030-FB0944F37CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB06DD4-30B0-4AA8-8030-FB0944F37CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB06DD4-30B0-4AA8-8030-FB0944F37CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC23B02-FB9F-44C7-AC64-0A367DCBFDFF}
+	EndGlobalSection
+EndGlobal
